@@ -18,7 +18,7 @@
 * TODO.
 ## Requirements
 * __OS__: Developed and tested on `Ubuntu 20.04`. However, this will be platform-independent so the software will also be able to run on `Windows 10`.
-* __Compiler__: `Linux`: `g++ 13.1.0`. For `Windows 10`, `MinGW` but I personally recommed using `Windows Subsystem for Linux (WSL)` using the `VSCode` editor.
+* __Compiler__: `g++ 13.1.0` on `Linux`. For `Windows 10`, you can use `MinGW` but I recommed using `Windows Subsystem for Linux (WSL)` using the `VSCode` editor.
 * `CMake`.
 
 ## Getting and Using the Software
