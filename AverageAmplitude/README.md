@@ -5,7 +5,7 @@
 * This repository contains the functionality to find the __Average (Mean) Amplitude__ of the signal.
 
 ## Requirements
-* See Root __README.md__; all the same throughout the entire project.
+* See the root __README.md__; all the same throughout the entire project.
 
 ## Running the Software
 * `$ mkdir build -p && cd build`
