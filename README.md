@@ -6,6 +6,7 @@
   * __Signal Processing Statistics__,
   * ___Convolution___ of two signals and
   * __Time to Frequency Domain__ conversion via the ___Fourier Transform___.
+  * TODO.
 
 ## Theory
 ### Signal Processing
@@ -18,3 +19,4 @@
 * `CMake`.
 
 ## Getting and Using the Software
+* TODO.
