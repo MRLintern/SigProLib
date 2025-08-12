@@ -1,5 +1,7 @@
 # SigProLib
-
+## Time-Line and Progression
+* This project is being built step-by-step so individual functionality will be added once its complete.
+* Once all of the components that make up the library have been completed, the library will then be created.
 ## Introduction
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
 * E.g.
