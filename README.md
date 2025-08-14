@@ -4,6 +4,8 @@
 * Once all of the components that make up the library have been completed, the library will then be created.
 * [Part 1: AverageAmplitude](https://github.com/MRLintern/SigProLib/tree/main/AverageAmplitude)
 * [Part 2: SignalRMS](https://github.com/MRLintern/SigProLib/tree/main/SignalRMS)
+* [Part 3: SignalVariance](https://github.com/MRLintern/SigProLib/tree/main/SignalVariance)
+* [Part 4: SignalSTDDev](https://github.com/MRLintern/SigProLib/tree/main/SignalSTDDev)
 ## Introduction
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
 * E.g.
