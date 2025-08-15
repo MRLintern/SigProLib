@@ -6,7 +6,7 @@
 * [Part 2: SignalRMS](https://github.com/MRLintern/SigProLib/tree/main/SignalRMS)
 * [Part 3: SignalVariance](https://github.com/MRLintern/SigProLib/tree/main/SignalVariance)
 * [Part 4: SignalSTDDev](https://github.com/MRLintern/SigProLib/tree/main/SignalSTDDev)
-* [Part 5: Templated_SignalStatisticsClass](https://github.com/MRLintern/SigProLib/tree/main/Templated_SignalStatisticsClass); In progress.
+* [Part 5: Templated_SignalStatisticsClass](https://github.com/MRLintern/SigProLib/tree/main/Templated_SignalStatisticsClass)
 ## Introduction
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
 * E.g.
