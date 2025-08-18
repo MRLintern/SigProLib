@@ -27,6 +27,6 @@
 * `$ cmake ..`
 * `$ cmake --build .`
 * `$ ./main`
-* The `output_signal.dat` file and the `input_signal.dat` files can be found in the `build` directory.
+* The `output_signal.dat` and `input_signal.dat` files can be found in the `build` directory.
 ---
 
