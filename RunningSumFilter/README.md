@@ -25,7 +25,7 @@
 * `$ cd SigProLib && cd RunningSumFilter`
 * `$ mkdir build -p && cd build`
 * `$ cmake ..`
-* `$ cmake --build`
+* `$ cmake --build .`
 * `$ ./main`
 * The `output_signal.dat` file and the `input_signal.dat` files can be found in the `build` directory.
 ---
