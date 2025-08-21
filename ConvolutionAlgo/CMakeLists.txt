@@ -22,9 +22,3 @@ add_custom_command(TARGET main POST_BUILD
 
 )
 
-
-
-
-    #$<TARGET_FILE_DIR:main>/input_signal.dat
-    #$<TARGET_FILE_DIR:main>/InputSignal_f32_1kHz_15kHz.dat
-#)
