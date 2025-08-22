@@ -25,7 +25,26 @@
 ### Signal Processing
 * TODO.
 ### Shared Libraries
-* TODO.
+* I thought I'd a few notes r.e. what __shared libraries__ are if you're interested.
+* A ___Shared Library___ is a collection of precompiled code that multiple programs can use at runtime, instead of each program having to include its own copy.
+* Instead of embedding the library into your program’s binary (__static linking__), the code lives in a separate file on the system.
+* At runtime, the operating system loads the library into memory and links it to your program.
+* Many processes can share the same library in memory at the same time which means: saves memory and disk space.
+#### Shared Libraries in Linux
+* This file extension is `so`, short for ___Shared Object___.
+* E.g., `libm.so`, the __math library__.
+##### How it Works
+* When you compile with `-shared`, you build a `.so` file.
+* At runtime, the __dynamic linker__ (`ld-linux.so`) finds and loads the library.
+* Programs reference the symbols (functions, variables) from it.
+* E.g.
+   `$ g++ -fPIC -shared -o libmylib.so mylib.cpp`
+   `$ g++ main.cpp -L. -lmylib -o myprogram`
+   `$ LD_LIBRARY_PATH=. ./myprogram`
+  
+* `libmylib.so` is the shared library.
+* `LD_LIBRARY_PATH` tells the system where to find it.  
+
 ## Requirements
 ---
 * __OS__: Developed and tested on `Ubuntu 20.04`. However, this will be platform-independent so the software will also be able to run on `Windows 10`.
