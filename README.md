@@ -53,7 +53,7 @@
   
     * `__declspec(dllexport) void hello() {
             std::cout << "Hello from DLL!\n";
-      }'
+      }`
  * Compile `myLib.cpp` into `myLib.dll`.
  * Programs that use it link against `mylib.lib` (import library).
         
