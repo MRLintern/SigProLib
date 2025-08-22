@@ -38,9 +38,9 @@
 * At runtime, the __dynamic linker__ (`ld-linux.so`) finds and loads the library.
 * Programs reference the symbols (functions, variables) from it.
 * E.g.
-   `$ g++ -fPIC -shared -o libmylib.so mylib.cpp`
-   `$ g++ main.cpp -L. -lmylib -o myprogram`
-   `$ LD_LIBRARY_PATH=. ./myprogram`
+   * `$ g++ -fPIC -shared -o libmylib.so mylib.cpp`
+   * `$ g++ main.cpp -L. -lmylib -o myprogram`
+   * `$ LD_LIBRARY_PATH=. ./myprogram`
   
 * `libmylib.so` is the shared library.
 * `LD_LIBRARY_PATH` tells the system where to find it.  
