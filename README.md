@@ -43,7 +43,20 @@
    * `$ LD_LIBRARY_PATH=. ./myprogram`
   
 * `libmylib.so` is the shared library.
-* `LD_LIBRARY_PATH` tells the system where to find it.  
+* `LD_LIBRARY_PATH` tells the system where to find it.
+
+#### Shared Libraries in Windows
+* File extension: `.dll` for ___Dynamic-Link Library___.
+* At runtime, Windows loads the `.dll` into the process.
+* Programs can call its exported functions.
+* E.g. `myLib.cpp`:
+  
+    * `__declspec(dllexport) void hello() {
+            std::cout << "Hello from DLL!\n";
+      }'
+ * Compile `myLib.cpp` into `myLib.dll`.
+ * Programs that use it link against `mylib.lib` (import library).
+        
 
 ## Requirements
 ---
