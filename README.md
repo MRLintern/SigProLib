@@ -11,7 +11,7 @@
 * [Part 5: Templated_SignalStatisticsClass](https://github.com/MRLintern/SigProLib/tree/main/Templated_SignalStatisticsClass)
 * [Part 6: RunningSumFilter](https://github.com/MRLintern/SigProLib/tree/main/RunningSumFilter)
 * [Part 7: ConvolutionAlgo](https://github.com/MRLintern/SigProLib/tree/main/ConvolutionAlgo)
-* [Part 8: Finite Impulse Response (FIR) Filter](https://github.com/MRLintern/SigProLib/tree/main/FIR_Filter)
+* [Part 8: Finite Impulse Response (FIR) Filter](https://github.com/MRLintern/SigProLib/tree/main/FIR_Filter); in progress.
 ## Introduction
 ---
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
