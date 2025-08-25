@@ -19,7 +19,7 @@
   * __Signal Processing Statistics__,
   * ___Convolution___ of two signals and
   * __Time to Frequency Domain__ conversion via the ___Fourier Transform___.
-  * TODO.
+  * TODO; further DSP methods/algorithms.
 
 ## Theory
 ---
