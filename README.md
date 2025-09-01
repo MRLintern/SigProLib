@@ -33,6 +33,7 @@
 * __Application__: E.g.
    - __Geophysics__: __Seismic Data Processing__: computational methods used to __transform raw seismic recordings__ into clear, __interpretable images__ of the __Earth's subsurface__. This is the first stage in creating __Geological Models__ which can be __interpreted__ in order to find __Oil & Gas traps__ in __Sandstone Reservoirs__.
 ### Shared Libraries
+---
 * I thought I'd a few notes r.e. what __shared libraries__ are if you're interested.
 * A ___Shared Library___ is a collection of precompiled code that multiple programs can use at runtime, instead of each program having to include its own copy.
 * Instead of embedding the library into your program’s binary (__static linking__), the code lives in a separate file on the system.
