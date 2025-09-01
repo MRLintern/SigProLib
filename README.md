@@ -84,7 +84,6 @@
 ## Getting and Using the Software
 ---
 * At the moment, the library hasn't been buit. However, some components have, so you can run these to separately to view the functionality of each component of the future library.
-* These individual components can be viewed as `unit tests`; each component isn't large.
 * `$ git clone git@github.com:MRLintern/SigProLib.git`
 * `cd` into each individual repository to run the program
 * TODO.
