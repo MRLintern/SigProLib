@@ -21,7 +21,10 @@
   * ___Convolution___ of two signals and
   * __Time to Frequency Domain__ conversion via the ___Fourier Transform___.
   * TODO; further DSP methods/algorithms.
-
+## Source Data
+---
+* Click [here](https://github.com/MRLintern/SigProLib/tree/main/Source_Date) to see the source files used in this project.
+* This will be updated continuously as the project continues.
 ## Theory
 ---
 ### Signal Processing
