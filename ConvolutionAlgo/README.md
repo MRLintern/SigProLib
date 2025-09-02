@@ -3,6 +3,10 @@
 ### Introduction
 ---
 * TODO.
+
+### Basic Theory and Concepts
+---
+* TODO.
 ### Running the Software
 * Once you have cloned the `SigProLib` do this:
 * `$ cd ConvolutionAlgo`
