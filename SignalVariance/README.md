@@ -3,6 +3,9 @@
 ## Introduction
 ---
 * This software calculates the __statistical variance__ of the __amplitude components__ of the input signal.
+
+## Basic Theory and Concepts
+* TODO.
 ## Instructions
 ---
 * Once the `SigProLib` has been cloned, do this:
