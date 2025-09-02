@@ -2,6 +2,7 @@
 ---
 * Software calculates the ___Root-Mean-Square (RMS)___ of the signal __waveform.cpp__.
 ### Basic Theory and Concepts
+---
 * TODO.
 ---
 ### Instructions
