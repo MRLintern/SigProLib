@@ -5,6 +5,7 @@
 * This repository contains the functionality to find the __Average (Mean) Amplitude__ of the signal.
 
 ## Basic Theory and Concepts
+---
 * TODO.
 
 ## Requirements
