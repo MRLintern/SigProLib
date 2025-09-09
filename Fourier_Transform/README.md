@@ -1,6 +1,5 @@
 ## Fourier Transform
 ---
-* TODO.
 ### Introduction
 ---
 * TODO.
