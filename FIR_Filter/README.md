@@ -24,5 +24,10 @@
 
 ## Running the Software
 ---
-* TODO.
+* Assuming you've clone the repository:
+* `$ git clone git@github.com:MRLintern/SigProLib.git`
+* `$ cd FIR_Filter`
+* `$ mkdir build -p && cd build`
+* `$ cmake ..`
+* `$ cmake --build .`
 ---
