@@ -11,6 +11,8 @@
     * __High frequencies__ correspond to __rapid changes__, while __low frequencies__ describe __slow variations__.
     * It’s widely used in physics, engineering, and data analysis — for example, in signal processing, image compression, quantum mechanics, and solving differential equations.
 
+* Note: the data which is used for this application is `ECG data`.
+
 ### Running the Application
 ---
 * TODO.
