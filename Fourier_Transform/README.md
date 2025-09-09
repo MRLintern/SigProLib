@@ -9,7 +9,7 @@
 * Key ideas:
     * It’s like taking a "recipe" of __frequencies__ that make up a signal.
     * __High frequencies__ correspond to __rapid changes__, while __low frequencies__ describe __slow variations__.
-    * It’s widely used in physics, engineering, and data analysis—for example, in signal processing, image compression, quantum mechanics, and solving differential equations.
+    * It’s widely used in physics, engineering, and data analysis — for example, in signal processing, image compression, quantum mechanics, and solving differential equations.
 
 ### Running the Application
 ---
