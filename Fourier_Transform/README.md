@@ -10,8 +10,18 @@
     * It’s like taking a "recipe" of __frequencies__ that make up a signal.
     * __High frequencies__ correspond to __rapid changes__, while __low frequencies__ describe __slow variations__.
     * It’s widely used in physics, engineering, and data analysis — for example, in signal processing, image compression, quantum mechanics, and solving differential equations.
+ 
+* We'll be looking at the ___Discrete Fourier Transform___ and the ___Fast Fourier Transform___.
 
 * Note: the data which is used for this application is `ECG data`.
+
+### Theory
+---
+#### Discrete Fourier Transform
+* TODO.
+
+#### Fast Fourier Transform
+* TODO.
 
 ### Running the Application
 ---
