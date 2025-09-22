@@ -18,7 +18,7 @@
 ### Theory
 ---
 #### Discrete Fourier Transform
-* converts a __finite sequence__ of numbers (often samples of a __signal__ in __time__ or __space__) into a __sequence__ of __complex numbers__ representing its __frequency components__.
+* Converts a __finite sequence__ of numbers (often samples of a __signal__ in __time__ or __space__) into a __sequence__ of __complex numbers__ representing its __frequency components__.
 
 #### Fast Fourier Transform
 * An algorithm to compute the __DFT much more efficiently__, reducing the __complexity__ from `O(N^2)` to `O(NlogN)`.
