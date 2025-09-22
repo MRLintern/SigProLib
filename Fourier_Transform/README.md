@@ -18,10 +18,12 @@
 ### Theory
 ---
 #### Discrete Fourier Transform
-* TODO.
+* converts a __finite sequence__ of numbers (often samples of a __signal__ in __time__ or __space__) into a __sequence__ of __complex numbers__ representing its __frequency components__.
 
 #### Fast Fourier Transform
-* TODO.
+* An algorithm to compute the __DFT much more efficiently__, reducing the __complexity__ from `O(N^2)` to `O(NlogN)`.
+* It works by __recursively__ breaking down a __large DFT__ into __smaller ones__ (often exploiting __symmetries__ in the __complex exponentials__).
+* The most common __FFT algorithm__ is the ___Cooley–Tukey Algorithm___, which is especially efficient when `N` is a power of 2.
 
 ### Running the Application
 ---
