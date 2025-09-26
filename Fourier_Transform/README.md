@@ -13,7 +13,6 @@
  
 * We'll be looking at the ___Discrete Fourier Transform___ and the ___Fast Fourier Transform___.
 
-* Note: the data which is used for this application is `ECG data`.
 
 ### Theory
 ---
