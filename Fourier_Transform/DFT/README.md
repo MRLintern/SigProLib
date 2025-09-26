@@ -6,7 +6,7 @@
 ---
 * The `results` have been included for viewing.
 * However, if you run the software you will generate these and they can be found in the `build` directory.
-* TODO: the software will (probably) be altered so that the output files are sent to an separate appropriate directory.
+* TODO: the software will (probably) be altered so that the output files are sent to a separate appropriate directory.
 
 ### Plotting
 ---
