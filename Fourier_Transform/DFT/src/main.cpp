@@ -17,11 +17,6 @@ int main() {
 	// allocate memory for a DFT object
 	auto dft { std::make_unique<DFT>(SIG_LENGTH) };
 
-	// get the input signal
-	//std::vector<double> input = GetTestSignal();
-
-
-
 	// -- compute the DFT for the signal -- //
 
 	try {
