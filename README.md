@@ -46,7 +46,7 @@
 * At runtime, the operating system loads the library into memory and links it to your program.
 * Many processes can share the same library in memory at the same time which means: saves memory and disk space.
 #### Shared Libraries in Linux
-* This file extension is `so`, short for ___Shared Object___.
+* The file extension is `so`, short for ___Shared Object___.
 * E.g., `libm.so`, the __math library__.
 ##### How it Works
 * When you compile with `-shared`, you build a `.so` file.
