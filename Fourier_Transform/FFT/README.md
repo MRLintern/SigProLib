@@ -1,6 +1,6 @@
 ## Fast Fourier Transform (FFT)
 ---
-* This repository contains the software for implementing the ___Fast Fourier Transform (DFT)___.
+* This repository contains the software for implementing the ___Fast Fourier Transform (FFT)___.
 
 ### Results
 ---
