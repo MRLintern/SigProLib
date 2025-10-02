@@ -10,4 +10,7 @@
 
 ### Plotting
 ---
-* TODO: a `Python` script be provided soon allowing you to plot the output results.
+* For plotting the results:
+* Once the application has finished, `cd` into the `build` directory, where the output files are generated.
+* Now run the script:
+* `$ python3 plot.py`. The plot will be saved automatically in the `build` directory.
