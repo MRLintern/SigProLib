@@ -10,4 +10,6 @@
 
 ### Plotting
 ---
-* TODO: a `Python` script be provided soon allowing you to plot the output results.
+* To plot the results:
+* `$ python3 plot.py`
+* However, you can see a copy of this provided in this repository.
