@@ -25,5 +25,5 @@
 * The most common __FFT algorithm__ is the ___Cooley–Tukey Algorithm___, which is especially efficient when `N` is a power of 2.
 
 ### Running the Application
----
-* TODO.
+* This application consists of two sub-applications: `DFT` & `FFT`.
+* `cd` into what one you want to use/run.
