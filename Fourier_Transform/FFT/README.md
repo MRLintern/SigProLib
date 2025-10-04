@@ -12,5 +12,7 @@
 ---
 * For plotting the results:
 * Once the application has finished, `cd` into the `build` directory, where the output files are generated.
+* For now, `mv` the `plot.py` script into the `build` directory (or use some other method you prefer).
 * Now run the script:
-* `$ python3 plot.py`. The plot will be saved automatically in the `build` directory.
+* `$ python3 plot.py`.
+* The plot will be saved automatically in the `build` directory.
