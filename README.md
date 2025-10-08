@@ -13,7 +13,7 @@
 * [Part 7: ConvolutionAlgo](https://github.com/MRLintern/SigProLib/tree/main/ConvolutionAlgo)
 * [Part 8: Finite Impulse Response (FIR) Filter](https://github.com/MRLintern/SigProLib/tree/main/FIR_Filter)
 * [Part 9: Fourier Transform](https://github.com/MRLintern/SigProLib/tree/main/Fourier_Transform) 
-* [Part 10: Correlation Function](https://github.com/MRLintern/SigProLib/tree/main/Correlation_Function); To start.
+* [Part 10: Correlation Function](https://github.com/MRLintern/SigProLib/tree/main/Correlation_Function); There are many types; I'll be looking at 2 types: ___Auto-Correlation___ & ___Circular-Correlation___; in progress.
 ## Introduction
 ---
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
