@@ -22,7 +22,7 @@
   * __Finite Impulse Response (FIR) Filter__,
   * ___Convolution___ of two signals and
   * __Time to Frequency Domain__ conversion via the ___Fourier Transform___.
-  * TODO; further DSP methods/algorithms.
+  
 ## Source Data
 ---
 * __Data__: all the input signals/data come from a 3rd year course I took while studying at the University of Liverpool: ___Signal Processing & Exploration Seismology___.
