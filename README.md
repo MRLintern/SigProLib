@@ -25,7 +25,7 @@
   
 ## Source Data
 ---
-* __Data__: all the input signals/data come from a 3rd year course I took while studying at the University of Liverpool: ___Signal Processing & Exploration Seismology___.
+* __Data__: all the input signals/data comes from a 3rd year course I took while studying at the University of Liverpool: ___Signal Processing & Exploration Seismology___.
 * Click [here](https://github.com/MRLintern/SigProLib/tree/main/Source_Date) to see the source files used in this project.
 * This will be updated continuously as the project continues.
 ## Theory
