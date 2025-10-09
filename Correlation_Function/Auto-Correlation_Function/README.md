@@ -9,4 +9,4 @@
 * `$ cmake ..`
 * `$ cmake --build .`
 * `$ ./main input_signal.dat circular_shifted.dat`
-* The results, `autoCorrelation_output.dat` `crossCorrelation_output.dat`
+* The results, `autoCorrelation_output.dat` `crossCorrelation_output.dat`, will be inside the `build` directory.
