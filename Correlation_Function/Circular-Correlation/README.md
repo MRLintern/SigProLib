@@ -13,7 +13,7 @@
 
 - For two discrete-time signals `x[n]` and `y[n]` of length `length N`, their __circulation correlation__ is defined as:
 
-	- `Rxy[m] = SUM x[n] y[(n + m) mod N]`, between `n = 0` and `N - 1`, where,
+	- `Rxy[m] = SUM{ x[n] y[(n + m) mod N]}`, between `n = 0` and `N - 1`, where,
 	
 		- `m` is the lag (shift),
 		- `mod` ensures wrapping around the signal length and
@@ -23,10 +23,14 @@
 
 ### Running the Application
 ---
-
-- TODO.
+- The input signals will be moved to another folder.
+- `$ mkdir build && cd build`
+- `$ cmake ..`
+- `$ cmake --build .`
+- `$ ./main input_signal.dat circular_shifted.dat`
 
 ### Results and Plotting
 ---
 
-- TODO.
+- The input signals and the resulting signal post-correlation can be found in the `results` directory.
+- TODO: `Python` script to plot input signals and circular-correlated signal.
