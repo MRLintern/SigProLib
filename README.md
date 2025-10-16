@@ -82,13 +82,13 @@
 * __Compiler__: `g++ 13.1.0` on `Linux`. For `Windows 10`, you can use `MinGW` but I recommed using `Windows Subsystem for Linux (WSL)` using the `VSCode` editor.
 * `CMake`.
 * Understand basic __Statistics__; the theory won't be covered so you'll need to know this stuff.
-* Understand the foundations of __Signal Processing__; the theory won't be covered so you'll need to know this stuff.
+* Understand the foundations of __Signal Processing__; the theory won't be covered so you'Update README.mdll need to know this stuff.
 
 ## Future Work and Development
 ---
 * `C++17` is being used to develop this software.
 * However, given the nature of the project, `C++20` or even `C++23`, might be worth using because of the new feature of `modules`, introduced in `C++20`.
-* TODO.
+
 ## Getting and Using the Software
 ---
 * At the moment, the library hasn't been buit. However, some components have, so you can run these to separately to view the functionality of each component of the future library.
