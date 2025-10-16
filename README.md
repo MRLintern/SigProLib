@@ -13,7 +13,8 @@
 * [Part 7: ConvolutionAlgo](https://github.com/MRLintern/SigProLib/tree/main/ConvolutionAlgo)
 * [Part 8: Finite Impulse Response (FIR) Filter](https://github.com/MRLintern/SigProLib/tree/main/FIR_Filter)
 * [Part 9: Fourier Transform](https://github.com/MRLintern/SigProLib/tree/main/Fourier_Transform) 
-* [Part 10: Correlation Function](https://github.com/MRLintern/SigProLib/tree/main/Correlation_Function); ___Circular-Correlation___; to start. This will essentially be the same as the __Auto__- and __Cross-Correlation__ algorthms, just with some additions. 
+* [Part 10: Correlation Function](https://github.com/MRLintern/SigProLib/tree/main/Correlation_Function)
+* Thats it; no more __DSP Algorithms__ will be created. The __Library__ will now be created.
 ## Introduction
 ---
 * A `C++17` __Cross-Platform Shared Library__ which can be used to perform basic __Signal Processing Operations__.
