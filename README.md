@@ -14,7 +14,7 @@
 * [Part 8: Finite Impulse Response (FIR) Filter](https://github.com/MRLintern/SigProLib/tree/main/FIR_Filter)
 * [Part 9: Fourier Transform](https://github.com/MRLintern/SigProLib/tree/main/Fourier_Transform) 
 * [Part 10: Correlation Function](https://github.com/MRLintern/SigProLib/tree/main/Correlation_Function)
-* __Part 11: Create a User Interface using __Qt__; this __might__ be done.
+* __Part 11__: Create a User Interface using __Qt__; this __might__ be done.
 * Thats it; no more __DSP Algorithms__ will be created. The __Library__ will now be created.
 ## Introduction
 ---
