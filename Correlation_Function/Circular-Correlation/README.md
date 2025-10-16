@@ -31,6 +31,7 @@
 
 ### Results and Plotting
 ---
-
-- The input signals and the resulting signal post-correlation can be found in the `results` directory.
-- TODO: `Python` script to plot input signals and circular-correlated signal.
+- When you run the application, the output file(s) are placed in the `build` directory.
+- Either run the `Python` script in the `build` folder, or move the files and plotting script to an appropriate folder.
+- Plotting: `$ python3 plot.py`.
+- In the `results-data` directory, you'll find a `.png` image of the output.
