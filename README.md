@@ -36,9 +36,9 @@
 * A __signal__ is any __time-varying__ or __spatial quantity__ that carries information — e.g., sound, image, video, biomedical data, or sensor measurements.
 * __Processing__: applying __mathematical operations__ (__filtering__, __compression__, __detection__, __transformation__, etc.) to extract useful information or improve the signal.
 * At its core, DSP involves:
-   - __Sampling__ (converting __continuous signals__ into __discrete data__ using an ADC — analog-to-digital converter.
+   - __Sampling__ (converting __continuous signals__ into __discrete data__ using an ___ADC___ — __analog-to-digital converter__.
    - __Processing__ the data using __algorithms__ (e.g., __convolution__, __Fourier transform__, __filtering__).
-   - __Reconstructing__ or __interpreting__ the signal (possibly converting back to analog via a DAC — digital-to-analog converter).
+   - __Reconstructing__ or __interpreting__ the signal (possibly converting back to analog via a ___DAC___ — __digital-to-analog converter__).
 * __Application__: E.g.
    - __Geophysics__: __Seismic Data Processing__: computational methods used to __transform raw seismic recordings__ into clear, __interpretable images__ of the __Earth's subsurface__. This is the first stage in creating __Geological Models__ which can be __interpreted__ in order to find __Oil & Gas traps__ in __Sandstone Reservoirs__.
 ### Shared Libraries
