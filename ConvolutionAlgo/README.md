@@ -17,7 +17,7 @@
 
 ### Results
 ---
-* The results can be found in the `results` folder, called `ConvolutedSignal.dat`.
-* You don't need this to run/use the software, but it gives you an example of what you should get.
-* When you run the software, `ConvolutedSignal.dat` can be found in the `build` directory.
+* The input signals `file1.dat` and `file2.dat` and output (`convoluted`) file, `ConvolutedSignal.dat` can be found in the `results` directory.
+* A `Python` script can be found which plots the data.
+* Note: a `png` image can also be found.
 ---
