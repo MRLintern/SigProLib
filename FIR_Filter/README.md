@@ -30,4 +30,11 @@
 * `$ mkdir build -p && cd build`
 * `$ cmake ..`
 * `$ cmake --build .`
+
+## Plotting
+---
+* The source file `input_signal.dat` can be found in the `results` folder with the moving average FIR-applied signal.
+* A `Python` script can be found for plotting the signals.
+* Note: A `.png` image can also be found. Delete this and the `moving_average.dat` signal to get your results.
+* `$ python3 plot.py`
 ---
